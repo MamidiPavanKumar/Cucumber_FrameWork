@@ -3,7 +3,7 @@
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.*;
 
-import base.BaseClass;
+import BasePage.BaseClass;
 
 public class Login extends BaseClass{
 	

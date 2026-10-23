@@ -2,9 +2,7 @@ package stepdefinitions;
 
 import org.openqa.selenium.By;
 
-
-
-import base.BaseClass;
+import BasePage.BaseClass;
 import io.cucumber.java.en.*;
 import junit.framework.Assert;
 import pages.Login;

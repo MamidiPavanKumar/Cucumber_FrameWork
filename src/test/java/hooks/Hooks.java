@@ -2,9 +2,7 @@ package hooks;
 
 import java.io.File;
 
-
-
-import base.BaseClass;
+import BasePage.BaseClass;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
